@@ -3,7 +3,7 @@ D13
 S1
 JF
 ZT 
-A10,20,0,2,1,1,N,"EMPRESA"
+A10,20,0,2,1,1,N,"<EMPRESA>"
 A10,35,0,1,1,1,N,"NF-e: @numero"
 A10,50,0,1,1,1,N,"Remetente: @remetente"
 A10,65,0,1,1,1,N,"Destinatario: @destinatario"
