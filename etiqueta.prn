@@ -3,10 +3,10 @@ D13
 S1
 JF
 ZT 
-A10,20,0,2,1,1,N,"<EMPRESA>"
-A10,35,0,1,1,1,N,"NF-e: @numero"
-A10,50,0,1,1,1,N,"Remetente: @remetente"
-A10,65,0,1,1,1,N,"Destinatario: @destinatario"
-A10,80,0,1,1,1,N,"Volumes: @quant @vols Peso: @peso CT-e @ctrc"
-A10,95,0,1,1,1,N,"@cid_dest-@uf_dest"
+A170,40,0,4,1,2,N,"<EMPRESA>"
+A25,110,0,3,1,1,N,"NF-e: @numero"
+A25,140,0,3,1,1,N,"Remetente: @remetente"
+A25,170,0,3,1,1,N,"Destinatario: @destinatario"
+A25,200,0,3,1,1,N,"Volumes: @quant @vols Peso: @peso CT-e @ctrc"
+A300,270,0,4,1,1,N,"@cid_dest-@uf_dest"
 P1
