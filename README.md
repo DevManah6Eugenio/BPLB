@@ -3,7 +3,7 @@ Impressora de etiquetas ELGIN L-42
 
 Etiqueta
 
-N (limpa o buffer de impressão)
+N (limpa o buffer de impressão)<br>
 D13 (configura a Densidade ou aquecimento da cabeça de impressão)
 S1 (configura a velocidade de impressão 1 polegadas/segundo)
 JF (habilita o “backfeed” para que ao final da impressão, o espaço entre etiquetas pare na serrilha)
