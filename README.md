@@ -1,5 +1,5 @@
 # BPLB
-Impressora de etiquetas ELGIN L-42
+Etiqueta criada para impressora de etiquetas ELGIN L-42
 
 Etiqueta
 
